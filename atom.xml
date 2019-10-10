@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravpf.github.io/</id>
-    <title>Rav</title>
-    <updated>2019-10-10T15:53:11.772Z</updated>
+    <title></title>
+    <updated>2019-10-10T15:59:07.028Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ravpf.github.io/"/>
     <link rel="self" href="https://ravpf.github.io//atom.xml"/>
     <subtitle>点滴珍藏</subtitle>
     <logo>https://ravpf.github.io//images/avatar.png</logo>
     <icon>https://ravpf.github.io//favicon.ico</icon>
-    <rights>All rights reserved 2019, Rav</rights>
+    <rights>All rights reserved 2019, </rights>
 </feed>
